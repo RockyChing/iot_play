@@ -1,7 +1,5 @@
 #ifndef _COMMON_HDR_H
 #define _COMMON_HDR_H
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
